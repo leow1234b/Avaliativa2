@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextNome" type="id" />
+    <item name="textViewLevel" type="id" />
+    <item name="textViewBonus" type="id" />
+    <item name="textViewModificadores" type="id" />
+    <item name="textViewPoderTotal" type="id" />
+    <item name="buttonIncrementarLevel" type="id" />
+    <item name="linearLayoutJogadores" type="id" />
+    <item name="buttonDecrementarBonus" type="id" />
+    <item name="buttonDecrementarModificadores" type="id" />
+    <item name="buttonIncrementarModificadores" type="id" />
+    <item name="buttonIncrementarBonus" type="id" />
+    <item name="buttonDecrementarLevel" type="id" />
+</resources>
